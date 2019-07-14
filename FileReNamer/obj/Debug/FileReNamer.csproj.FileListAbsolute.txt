@@ -1,0 +1,7 @@
+D:\Projekty\C#\FileReNamer\FileReNamer\FileReNamer\bin\Debug\FileReNamer.exe.config
+D:\Projekty\C#\FileReNamer\FileReNamer\FileReNamer\bin\Debug\FileReNamer.exe
+D:\Projekty\C#\FileReNamer\FileReNamer\FileReNamer\bin\Debug\FileReNamer.pdb
+D:\Projekty\C#\FileReNamer\FileReNamer\FileReNamer\obj\Debug\FileReNamer.csproj.CoreCompileInputs.cache
+D:\Projekty\C#\FileReNamer\FileReNamer\FileReNamer\obj\Debug\FileReNamer.exe
+D:\Projekty\C#\FileReNamer\FileReNamer\FileReNamer\obj\Debug\FileReNamer.pdb
+D:\Projekty\C#\FileReNamer\FileReNamer\FileReNamer\obj\Debug\FileReNamer.csprojAssemblyReference.cache
